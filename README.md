@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ashik0806
+- 👀 I’m interested in Manual and Automation Testing
+- 🌱 I’m currently learning Automation Testing 
+- 💞️ I’m looking to collaborate on Manual Testing
+- 📫 How to reach me ashikmohamed0806@gmail.com
